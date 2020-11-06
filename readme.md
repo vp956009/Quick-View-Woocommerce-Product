@@ -1,12 +1,6 @@
-=== Quick View Woocommerce Product===
-Tested up to: 5.4
-Tags: Quick View Woocommerce, Quick View, Quick buy
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1>Quick View Woocommerce Product</h1>
 
-== Description ==
-
-**Quick View Woocommerce** provide you open popup to add to cart in show and category page in woocommerce. It allow to [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) loop in open Popup without open page it make elegant popup with responsive **Quick View for Woocommerce**.
+**[Quick View Woocommerce](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)** provide you open popup to add to cart in show and category page in woocommerce. It allow to [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) loop in open Popup without open page it make elegant popup with responsive **[Quick View for Woocommerce](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)**.
 
 &#128312; *[woocommerce quick view demo](http://oceanwebguru.com/oceanwoodemo/shop/)*
 
@@ -25,13 +19,13 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 > * Admin can use shortcode [ocwqv product_id="{product id}" name="{button name}"] to create dynamic quick view button in any page
 
 <h3>How to add Quick View Woocommerce</h3>
-<iframe width="640" height="345" src="https://www.youtube.com/embed/K_rTpSzc1EY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Quick View Product Woocommerce** People are more attracted to what they can see clearly. And **Product Quick View Popup** often the classic product lists are not enough to understand the real value of a product.Customers can navigate from one product to another using next and previous product button **Product quick view popup**.
 
-**Quick view in woocommerce** save time to customer get all product information. it make be like summery of product if you have lost of product in your store than **Quick View Woocommerce plugin** best for you.
+**[Quick View Product Woocommerce](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)** People are more attracted to what they can see clearly. And **Product Quick View Popup** often the classic product lists are not enough to understand the real value of a product.Customers can navigate from one product to another using next and previous product button **[Product quick view popup](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)**.
 
-**Quick View Plugin for Woocommerce** using with mobile friendly supported layout to make easy to view in [Woocommerce](https://wordpress.org/plugins/woocommerce/) category or woocommerce shop page.
+**[Quick view in woocommerce](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)** save time to customer get all product information. it make be like summery of product if you have lost of product in your store than **[Quick View Woocommerce plugin](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)** best for you.
+
+**[Quick View Plugin for Woocommerce](https://wordpress.org/plugins/quick-view-product-for-woocommerce/)** using with mobile friendly supported layout to make easy to view in [Woocommerce](https://wordpress.org/plugins/woocommerce/) category or woocommerce shop page.
 
 
 
